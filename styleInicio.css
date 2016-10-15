@@ -1,0 +1,256 @@
+#Primer{
+                margin-top:20px;
+                margin-right: 25px;
+                margin-bottom: 20px;
+                margin-left: 25px;
+                padding: 25;
+                background-color: #8DDBFA;
+                color: #863A3A;
+                border-radius:10px;
+                text-align:center;
+                font-family: Segoe UI;
+                font-weight: 200;
+            }
+#Saludo{
+                margin-top:20px;
+                margin-right: 100px;
+                margin-bottom: 20px;
+                margin-left: 100px;
+                padding: 25;
+                background-color: #8DDBFA;
+                color: #863A3A;
+                border-radius:10px;
+                text-align:center;
+                font-family: Segoe UI;
+                font-weight: 200;
+}            
+    #opciones li{
+        margin-left:15px;
+        display:inline;
+        text-align: left;
+        font-family: "Segoe UI";
+        font-weight: 200;
+        font-size: 30px;
+    }
+    
+    #opciones li a {
+        color: #FFFFFF;
+        text-decoration:none;
+    }
+    
+    #contenedorDesc{
+        color: white;
+        height: 1000px;
+        width: 150px;
+        background-color: #009546;
+        margin: 60px;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: justify;
+        font-family: "Segoe UI";
+        font-weight: 200;
+    }
+    
+    #contenedorDesc p {
+        font-family: Segoe UI;
+    }
+    
+    #bombideas{
+        height: 300px;
+        width: 140px;
+        border-radius: 10px;
+    }
+    
+    #nombre{
+        text-align:rigth;
+        color: white !important;
+        font-family: Segoe UI;
+        font-weight: 200;
+        padding:0px 0px 0px 500px;
+        position:absolute;
+        margin-top: -1090px;
+        
+    }
+    
+    #apellido{
+        text-align:rigth;
+        color: white !important;
+        font-family: Segoe UI;
+        font-weight: 200;
+        padding:0px 0px 0px 500px;
+        position:absolute;
+        margin-top: -1060px;
+    }
+    
+    #nac{
+        text-align:rigth;
+        color: white !important;
+        font-family: Segoe UI;
+        font-weight: 200;
+        padding:0px 0px 0px 500px;
+        position:absolute;
+        margin-top: -1030px;
+    }
+    
+    #edu{
+        text-align:rigth;
+        color: white !important;
+        font-family: Segoe UI;
+        font-weight: 200;
+        padding:0px 0px 0px 500px;
+        position:absolute;
+        margin-top: -1000px;
+    }
+    #fotoperfil{
+        
+        padding: 0px 0px 0px 280px;
+        height: 165px;
+        width: 165px;
+        position:absolute;
+        margin-top: -1080px;
+        border-radius: 10px;
+    }
+    
+    #material{
+        height: 80px;
+        width: 110px;
+        border-radius: 10px;
+        position:absolute;
+        margin-top:-880px ;
+        margin-right: 0px;
+        margin-bottom:0px ;
+        margin-left:1100px ;
+    
+    }
+    
+    #Experiencia{
+        
+        text-align:rigth;
+        color: white !important;
+        font-family: Segoe UI;
+        font-weight: 200;
+        padding:0px 0px 0px 500px;
+        position:absolute;
+        margin-top: -970px;
+    }
+    
+    #Direccion{
+        
+        text-align:rigth;
+        color: white !important;
+        font-family: Segoe UI;
+        font-weight: 200;
+        padding:0px 0px 0px 500px;
+        position:absolute;
+        margin-top: -940px;
+    }
+    
+    #interes{
+        
+        color: white;
+        height: 200px;
+        width: 850px;
+        background-color: #003392;
+        border-radius: 10px;
+        position:absolute;
+        text-align: left;
+        margin-top: -850px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 280px;
+        padding:10px;
+        font-family: Segoe UI;
+        font-weight: 200;
+    }
+    
+    #interes h3{
+        font-family: Segoe UI;
+        font-weight: 200;
+        font-size: 25px;
+        margin-top: 5px;
+        margin-right: 0px;
+        margin-bottom: 5px;
+        margin-left: 0px;
+    }
+    
+    #pasatietiempo{
+        color: white;
+        height: 200px;
+        width: 850px;
+        background-color: #455A64;
+        border-radius: 10px;
+        position:absolute;
+        text-align: left;
+        margin-top: -570px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 280px;
+        padding:10px;
+        font-family: Segoe UI;
+        font-weight: 200;
+    }
+    #pasatietiempo h3{
+        font-family: Segoe UI;
+        font-weight: 200;
+        font-size: 25px;
+        margin-top: 5px;
+        margin-right: 0px;
+        margin-bottom: 5px;
+        margin-left: 0px;
+    }
+    
+    #hobby{
+        height: 80px;
+        width: 110px;
+        border-radius: 10px;
+        position:absolute;
+        margin-top:-595px ;
+        margin-right: 0px;
+        margin-bottom:0px ;
+        margin-left:1100px ;
+    }
+    
+    #futuro{
+        color: white;
+        height: 200px;
+        width: 850px;
+        background-color: #0091EA;
+        border-radius: 10px;
+        position:absolute;
+        text-align: left;
+        margin-top: -270px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 280px;
+        padding:10px;
+        font-family: Segoe UI;
+        font-weight: 200;
+    }
+    
+    #futuro h3{
+        font-family: Segoe UI;
+        font-weight: 200;
+        font-size: 25px;
+        margin-top: 5px;
+        margin-right: 0px;
+        margin-bottom: 5px;
+        margin-left: 0px;
+    }
+    
+    #trabajo{
+        height: 80px;
+        width: 110px;
+        border-radius: 10px;
+        position:absolute;
+        margin-top:-285px ;
+        margin-right: 0px;
+        margin-bottom:0px ;
+        margin-left:1100px ;
+    }
+    
+    #propiedad{
+        text-align:center;
+        font-family: Segoe UI;
+        font-weight: 200;
+        font-size: 20px;
+    }

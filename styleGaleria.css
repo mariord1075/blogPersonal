@@ -1,0 +1,43 @@
+h1#Minombre {
+        margin: 15px 25px 15px 25px;
+        padding: 0px;
+        background-color:  #ffeb3b;
+        border-radius:10px;
+        text-align:center;
+        font-family: "Segoe UI";
+        font-weight: 200;
+}
+
+#barra li {
+        margin-left:15px;
+        display:inline;
+        text-align: left;
+        font-family: "Segoe UI";
+        font-weight: 200;
+        font-size: 30px;
+        
+    }
+    
+#barra li a {
+        color: #FFFFFF;
+        text-decoration:none;
+}
+
+#propi{
+        text-align:center;
+        font-family: Segoe UI;
+        font-weight: 200;
+        font-size: 20px;
+        margin-top:500px;
+    }
+    
+    #imgconstruccion{
+        height: 350px;
+        width: 400px;
+        margin-top:50px ;
+        margin-right:0px ;
+        margin-bottom:0px ;
+        margin-left:500px;
+    }
+
+
